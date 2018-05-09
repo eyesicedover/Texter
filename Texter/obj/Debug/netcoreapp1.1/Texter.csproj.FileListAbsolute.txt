@@ -1,0 +1,8 @@
+C:\Users\epicodus\Desktop\Projects\Texter\Texter\bin\Debug\netcoreapp1.1\Texter.deps.json
+C:\Users\epicodus\Desktop\Projects\Texter\Texter\bin\Debug\netcoreapp1.1\Texter.runtimeconfig.json
+C:\Users\epicodus\Desktop\Projects\Texter\Texter\bin\Debug\netcoreapp1.1\Texter.runtimeconfig.dev.json
+C:\Users\epicodus\Desktop\Projects\Texter\Texter\bin\Debug\netcoreapp1.1\Texter.dll
+C:\Users\epicodus\Desktop\Projects\Texter\Texter\obj\Debug\netcoreapp1.1\Texter.csprojResolveAssemblyReference.cache
+C:\Users\epicodus\Desktop\Projects\Texter\Texter\obj\Debug\netcoreapp1.1\Texter.csproj.CoreCompileInputs.cache
+C:\Users\epicodus\Desktop\Projects\Texter\Texter\obj\Debug\netcoreapp1.1\Texter.AssemblyInfoInputs.cache
+C:\Users\epicodus\Desktop\Projects\Texter\Texter\obj\Debug\netcoreapp1.1\Texter.AssemblyInfo.cs
